@@ -1,4 +1,4 @@
-# Lou LLM
+# Loucpp
 
 Inteligência artificial com personalidade customizável, executando localmente com LLM (Large Language Model), projetada para diálogos naturais, interações contextuais profundas e memória a longo prazo.
 
